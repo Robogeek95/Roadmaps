@@ -1,7 +1,7 @@
 # Roadmaps
 
-[Frontend](./Frontend/readme.md)
+[Frontend](./Frontend)
 
-[Backend](./Backend/readme.md)
+[Backend](./Backend)
 
-[DevOps](./Devops/readme.md)
+[DevOps](./Devops)
